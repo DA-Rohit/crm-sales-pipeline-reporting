@@ -2,11 +2,15 @@
 
 Excel-based CRM sales pipeline system built using Power Query and Power Pivot for data cleaning, modeling, interactive dashboarding, and generating actionable business insights.
 
+---
+
 ## 📌 Project Overview
 - Built an end-to-end Excel-based CRM reporting system  
 - Integrated multiple datasets into a structured data model  
 - Developed interactive dashboards for performance monitoring  
 - Extracted key business insights from sales data
+
+---
 
 ## 🛠️ Tools & Technologies
 - Microsoft Excel  
@@ -14,11 +18,15 @@ Excel-based CRM sales pipeline system built using Power Query and Power Pivot fo
 - Power Pivot  
 - Pivot Tables & Charts
 
+---
+
 ## 📂 Dataset
 - Sales Pipeline (fact table)  
 - Accounts  
 - Products  
 - Sales Teams
+
+---
 
 ## ⚙️ Key Features
 - Data cleaning & standardization (Power Query)  
@@ -26,6 +34,8 @@ Excel-based CRM sales pipeline system built using Power Query and Power Pivot fo
 - KPI development (Revenue, Conversion Rate, Avg Deal Size, Sales Cycle)  
 - Interactive dashboards with slicers  
 - Performance analysis across agents, products, and time
+
+---
 
 ## 📊 Dashboard Preview
 
@@ -35,10 +45,14 @@ Excel-based CRM sales pipeline system built using Power Query and Power Pivot fo
 ### Performance Breakdown
 ![Dashboard Page 2](dashboard_page2.png)
 
+---
+
 ## Dashboards Interactivity Video (38s)
 A short video demonstrating dashboards interactivity by using date, region, product and sales agent slicers.
 
 ▶ Watch the video (unlisted): [YouTube link](https://youtu.be/7lPmJoSnnWU)
+
+---
 
 ## 🔍 Key Insights
 
@@ -65,8 +79,12 @@ We often assume higher revenue comes with longer sales cycles — but the data s
 - Insight: Only Celia’s team has successfully closed deals for the highest-priced product GTK 500, indicating a unique capability to sell premium offerings that remains untapped across other teams.
 - Recommendation: Expanding training and enablement around selling high-value products across other teams could unlock significant revenue potential by reducing reliance on lower-priced product volumes.
 
+---
+
 ## 📄 Documentation
 - SOP Document: [View Here](SOP_Documentation.pdf)
+
+---
 
 ## 🚀 How to Use
 1. Download the Excel file from `/dashboard`  
